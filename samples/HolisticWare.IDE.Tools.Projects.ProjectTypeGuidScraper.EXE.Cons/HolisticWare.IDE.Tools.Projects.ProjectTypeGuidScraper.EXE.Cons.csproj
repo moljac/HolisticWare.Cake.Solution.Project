@@ -51,8 +51,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HolisticWare.IDE.Tools.Projects.DomainBusinessLogic.DLL\HolisticWare.IDE.Tools.Projects.DomainBusinessLogic.DLL.csproj">
-      <Project>{AF9BED1D-AC73-4542-88D8-79C7672F6D69}</Project>
+    <ProjectReference Include="..\..\source\HolisticWare.IDE.Tools.Projects.DomainBusinessLogic.DLL\HolisticWare.IDE.Tools.Projects.DomainBusinessLogic.DLL.csproj">
+      <Project>{af9bed1d-ac73-4542-88d8-79c7672f6d69}</Project>
       <Name>HolisticWare.IDE.Tools.Projects.DomainBusinessLogic.DLL</Name>
     </ProjectReference>
   </ItemGroup>
